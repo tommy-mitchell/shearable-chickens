@@ -6,9 +6,9 @@
 	"description": "Shear chickens to prevent them from laying eggs.",
 	"authors": ["tommy-mitchell"],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/better-waxed-signs",
-		"sources": "https://github.com/tommy-mitchell/better-waxed-signs",
-		"issues": "https://github.com/tommy-mitchell/better-waxed-signs/issues"
+		"homepage": "https://modrinth.com/mod/shearablechickens",
+		"sources": "https://github.com/tommy-mitchell/shearablechickens",
+		"issues": "https://github.com/tommy-mitchell/shearablechickens/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/shearable-chickens/icon.png",
