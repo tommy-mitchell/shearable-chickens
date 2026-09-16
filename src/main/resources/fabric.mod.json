@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "shearable-chickens",
+	"version": "${version}",
+	"name": "Shearable Chickens",
+	"description": "Shear chickens to prevent them from laying eggs.",
+	"authors": ["tommy-mitchell"],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/better-waxed-signs",
+		"sources": "https://github.com/tommy-mitchell/better-waxed-signs",
+		"issues": "https://github.com/tommy-mitchell/better-waxed-signs/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/shearable-chickens/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"shearablechickens.ShearableChickens"
+		]
+	},
+	"mixins": [
+		"shearable-chickens.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
